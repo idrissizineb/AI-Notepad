@@ -134,12 +134,6 @@ cmake --build build
 
 ---
 
-## License
-
-Add a `LICENSE` file to the repository if you want to specify terms for contributors and users.
-
----
-
 ## Contributing
 
 Issues and pull requests are welcome. Please build with the CMake/Qt versions above and keep changes focused and consistent with the existing code style.
